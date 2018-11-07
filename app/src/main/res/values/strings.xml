@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HandyConverter</string>
+    <string name="error_message">Please Enter A Valid Value</string>
+</resources>
